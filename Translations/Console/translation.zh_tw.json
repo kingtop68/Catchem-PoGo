@@ -474,7 +474,7 @@
     },
     {
       "Key": "pokeInGym",
-      "Value": "Pokemon {0} is signed to defend a GYM!"
+      "Value": "神奇寶貝 {0} "
     },
     {
       "Key": "failedCoords",
@@ -666,7 +666,7 @@
     },
     {
       "Key": "useBerry",
-      "Value": "Using Razzberry. Berries left: {0}"
+      "Value": "使用莓果. 剩下: {0}"
     },
     {
       "Key": "nianticServerUnstable",
@@ -714,15 +714,15 @@
     },
     {
       "Key": "checkingForMaximumInventorySize",
-      "Value": "[Inventory] Items to Keep exceeds maximum inventory size! {0}/{1}"
+      "Value": "[儲存]道具，檢查儲存道具於最大值內！ {0}/{1}"
     },
     {
       "Key": "logEntryFavorite",
-      "Value": "FAVORITE"
+      "Value": "加入收藏"
     },
     {
       "Key": "logEntryUnFavorite",
-      "Value": "UNFAVORITE"
+      "Value": "取消收藏"
     },
     {
       "Key": "pokemonFavorite",
