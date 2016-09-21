@@ -34,7 +34,7 @@
     },
     {
       "Key": "eventFortFailed",
-      "Value": "名稱：{0} 訊息：操作失敗，可能被ban。正在解封：{1}/{2}"
+      "Value": "名稱：{0} 訊息：操作失敗，可能被封號。正在解封：{1}/{2}"
     },
     {
       "Key": "eventFortTargeted",
@@ -174,7 +174,7 @@
     },
     {
       "Key": "logEntryBerry",
-      "Value": "漿果"
+      "Value": "莓果"
     },
     {
       "Key": "logEntryEgg",
@@ -266,7 +266,7 @@
     },
     {
       "Key": "lookingForPokemon",
-      "Value": "正在搜索寵物小神奇寶貝..."
+      "Value": "正在搜索神奇寶貝..."
     },
     {
       "Key": "lookingForLurePokemon",
@@ -390,15 +390,15 @@
     },
     {
       "Key": "setLure",
-      "Value": "Set lure at PokeStop: {0}, distance: {1}, lures left: {2}"
+      "Value": "設定櫻花在PokeStop: {0}, 距離: {1}, 櫻花剩下: {2}"
     },
     {
       "Key": "levelUp",
-      "Value": "Level up! Rewards: "
+      "Value": "升級！獎勵: "
     },
     {
       "Key": "evolvedInto",
-      "Value": "Evolved into {0} CP: {1} Iv: {2}%"
+      "Value": "進化後 {0} CP: {1} Iv: {2}%"
     },
     {
       "Key": "gymTouch",
@@ -406,19 +406,19 @@
     },
     {
       "Key": "eggFound",
-      "Value": "Found an egg, distance: {0}km from PokeStop: {1}"
+      "Value": "獲得寶貝蛋, 距離: {0}km 從PokeStop: {1}"
     },
     {
       "Key": "pokeListEmpty",
-      "Value": "Highests Pokemon List is empty"
+      "Value": "最高神奇寶貝列表是空的"
     },
     {
       "Key": "proxyAlready",
-      "Value": "{0} is already running with this proxy!"
+      "Value": "{0} 與此代理已在運行！"
     },
     {
       "Key": "yourIpProxyIp",
-      "Value": "Your IP is: {0} / Proxy IP is: {1}"
+      "Value": "你的IP位子是: {0} / 代理IP是: {1}"
     },
     {
       "Key": "ipMatch",
@@ -426,7 +426,7 @@
     },
     {
       "Key": "yourIpIs",
-      "Value": "Your IP is: {0}"
+      "Value": "你的IP位子是: {0}"
     },
     {
       "Key": "proxyDown",
@@ -670,7 +670,7 @@
     },
     {
       "Key": "nianticServerUnstable",
-      "Value": "Niantic Servers unstable, throttling API Calls."
+      "Value": "Niantic伺服器不穩定, 限制 API 回傳."
     },
     {
       "Key": "operationCanceled",
@@ -738,11 +738,11 @@
     },
     {
       "Key": "stopBotToAvoidBan",
-      "Value": "The bot was stopped to avoid ban!"
+      "Value": "程式停止中，以避免被封號！"
     },
     {
       "Key": "botNotStoppedRiskOfBan",
-      "Value": "Somethng happened that shouldn't have and bot hasn't stopped. Higher possibility of ban. (suggested action: stop the bot \"Control+C\")."
+      "Value": "Somethng happened that shouldn't have and bot hasn't stopped. 封號的可能性較高. (建議採取的行動：停止程式\“控制+ C\”)."
     }
   ],
   "Pokemon": [
